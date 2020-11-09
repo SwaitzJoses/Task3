@@ -1,0 +1,55 @@
+BY CITY ID
+
+{coord: {…}, weather: Array(1), base: "stations", main: {…}, visibility: 10000, …}
+base: "stations"
+clouds: {all: 75}
+cod: 200
+coord: {lon: 145.77, lat: -16.92}
+dt: 1604917161
+id: 2172797
+main: {temp: 298.44, feels_like: 299.24, temp_min: 298.15, temp_max: 298.71, pressure: 1015, …}
+name: "Cairns"
+sys: {type: 1, id: 9490, country: "AU", sunrise: 1604864158, sunset: 1604910336}
+timezone: 36000
+visibility: 10000
+weather: [{…}]
+wind: {speed: 3.6, deg: 170}
+__proto__: Object
+
+
+BY CITY NAME
+
+{coord: {…}, weather: Array(1), base: "stations", main: {…}, visibility: 8000, …}
+base: "stations"
+clouds: {all: 75}
+cod: 200
+coord: {lon: -0.13, lat: 51.51}
+dt: 1604917099
+id: 2643743
+main: {temp: 286.8, feels_like: 285.46, temp_min: 286.48, temp_max: 287.15, pressure: 1019, …}
+name: "London"
+sys: {type: 1, id: 1414, country: "GB", sunrise: 1604905727, sunset: 1604938804}
+timezone: 0
+visibility: 8000
+weather: [{…}]
+wind: {speed: 2.6, deg: 100}
+__proto__: Object
+
+
+BY LATTITUDE AND LONGITUDE
+
+{coord: {…}, weather: Array(1), base: "stations", main: {…}, visibility: 10000, …}
+base: "stations"
+clouds: {all: 6}
+cod: 200
+coord: {lon: 65, lat: 33}
+dt: 1604917561
+id: 1138714
+main: {temp: 294.76, feels_like: 287.91, temp_min: 294.76, temp_max: 294.76, pressure: 1016, …}
+name: "Kajrān"
+sys: {country: "AF", sunrise: 1604887517, sunset: 1604925749}
+timezone: 16200
+visibility: 10000
+weather: [{…}]
+wind: {speed: 6.01, deg: 218}
+__proto__: Object
